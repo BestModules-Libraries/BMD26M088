@@ -1,21 +1,13 @@
 <div align=center>
-<img src="https://github.com/BestModules-Libraries/img/blob/main/BM22S4221-1_BMA26M422_V1.0.png" width="480" height="240"> 
+<img src="https://github.com/BestModules-Libraries/img/blob/main/BMD26M088_V1.0.png" width="480" height="240"> 
 </div> 
 
-BM22S4221-1
+BMD26M088
 ===========================================================
 
-#### Applicable types:
-<div align=center>
 
-|Part No.   |Description                   |
-|:---------:|:----------------------------:|
-|BM22S4221-1||
-|BMA26M422  |  |
 
-</div> 
-
-This library can be installed via the Arduino Library manager. Search for **BM22S4221-1**. 
+This library can be installed via the Arduino Library manager. Search for **BMD26M088**. 
 
 Repository Contents
 -------------------
@@ -28,7 +20,7 @@ Repository Contents
 Documentation 
 -------------------
 
-* **[BM22S4221-1 Arduino Library V1.0.1 Description v100]( https://www.bestmodulescorp.com/bm22s4221-1.html#tab-product2 )** - Arduino Library Description.
+* **[BMD26M088 Arduino Library V1.0.1 Description v100]( https://www.bestmodulescorp.com/bmd26m088.html#tab-product2 )** - Arduino Library Description.
 
 Version History  
 -------------------
