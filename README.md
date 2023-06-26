@@ -5,7 +5,7 @@
 BMD26M088
 ===========================================================
 
-
+The Best Modules BMD26M088 is a 8×8 RGB LED module, which uses the I2C communication method. This document provides the description of the BMD26M088 Arduino Lib functions and how to install the Arduino Lib. The example demonstrates the function of the light panel display.
 
 This library can be installed via the Arduino Library manager. Search for **BMD26M088**. 
 
