@@ -25,7 +25,13 @@ Documentation
 Version History  
 -------------------
 
-* **V1.0.1** - Initial public release.
+* **V1.0.1**  
+&emsp;&emsp;- Initial public release.
+* **V1.0.2**  
+&emsp;&emsp;- Add functions:readCmd()、 setOverTemperatureProtect()、getOverTemperatureFlag()、setGradient();  
+&emsp;&emsp;- Add examples:gradient、colorful;  
+&emsp;&emsp;- Optimize function:being()-avoid power-on flickering issues;  
+&emsp;&emsp;- Optimize examples:change the module address to 0X67 for all examples;  
 
 License Information
 -------------------
