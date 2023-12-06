@@ -32,6 +32,8 @@ Version History
 &emsp;&emsp;- Add examples:gradient、colorful;  
 &emsp;&emsp;- Optimize function:being()-avoid power-on flickering issues;  
 &emsp;&emsp;- Optimize examples:change the module address to 0X67 for all examples;  
+* **V1.0.3**  
+&emsp;&emsp;- Changed the I2C address of the 'colorful'and 'Gradient' examples: I2C address changed from 0x65 to 0x67；
 
 License Information
 -------------------
